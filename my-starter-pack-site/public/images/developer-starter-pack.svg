@@ -1,0 +1,31 @@
+
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond de l'emballage -->
+  <rect width="500" height="500" fill="#6366f1" />
+  
+  <!-- Cadre de l'emballage -->
+  <rect x="50" y="50" width="400" height="400" fill="#ffffff" />
+  
+  <!-- Figurine simplifiée -->
+  <circle cx="250" cy="150" r="50" fill="#10b981" />
+  <rect x="200" y="200" width="100" height="150" fill="#10b981" />
+  <rect x="150" y="200" width="50" height="20" fill="#10b981" />
+  <rect x="300" y="200" width="50" height="20" fill="#10b981" />
+  <rect x="210" y="350" width="30" height="80" fill="#10b981" />
+  <rect x="260" y="350" width="30" height="80" fill="#10b981" />
+  
+  <!-- Accessoires -->
+  <rect x="350" y="150" width="50" height="50" fill="#10b981" opacity="0.8" rx="5" />
+  <rect x="350" y="220" width="50" height="30" fill="#10b981" opacity="0.8" rx="5" />
+  <rect x="350" y="270" width="50" height="40" fill="#10b981" opacity="0.8" rx="5" />
+  
+  <!-- Texte "STARTER PACK" en haut -->
+  <text x="250" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#000000">STARTER PACK</text>
+  
+  <!-- Nom du pack en bas -->
+  <text x="250" y="440" font-family="Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="middle" fill="#000000">Developer Starter Pack</text>
+  
+  <!-- Badge "Limited Edition" si applicable -->
+  
+</svg>
+  
